@@ -1,0 +1,30 @@
+.com-cm-avatar {
+	height:215px;
+	width:200px;
+	padding:1px;
+	border:1px solid #eee;
+	background-position:1px 1px;
+	background-repeat:no-repeat;
+	float:left;
+	background-size:200px 200px;
+	margin:2px;
+	}
+.com-cm-avatar a{
+	display: block;
+	text-align:center;
+	position:relative;
+	top:200px;
+	}
+.com-cm-avatar img{
+	cursor:pointer;
+	position:absolute;
+	}
+.com-cm-left{
+	float:left;
+	padding:0 5px;
+	}
+.com-cm-row{
+	float:left;
+	padding:5px;
+	min-width:300px;
+	}

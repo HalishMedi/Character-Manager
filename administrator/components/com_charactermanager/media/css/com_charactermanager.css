@@ -1,0 +1,42 @@
+@CHARSET "ISO-8859-1";
+
+.calendar {
+	vertical-align:top !important;
+	border:none !important;
+	} 
+
+.icon-48-characters_48 {
+	background-image: url(../icons/characters_48.png);
+	}
+	
+.icon-48-categories_48 {
+	background-image: url(../icons/categories_48.png);
+	}
+		
+.icon-48-types_48 {
+	background-image: url(../icons/types_48.png);
+	}
+
+.icon-48-add_character_48 {
+	background-image: url(../icons/add_character_48.png);
+	}
+	
+.icon-48-edit_character_48 {
+	background-image: url(../icons/edit_character_48.png);
+	}
+	
+.icon-48-add_category_48 {
+	background-image: url(../icons/add_category_48.png);
+	}
+	
+.icon-48-edit_category_48 {
+	background-image: url(../icons/edit_category_48.png);
+	}
+	
+.icon-48-add_type_48 {
+	background-image: url(../icons/add_type_48.png);
+	}
+	
+.icon-48-edit_type_48 {
+	background-image: url(../icons/edit_type_48.png);
+	}
